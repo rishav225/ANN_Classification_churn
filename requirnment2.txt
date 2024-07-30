@@ -1,0 +1,17 @@
+TensorFlow==2.16.2
+pandas~=2.2.2
+numpy~=1.26.4
+scikit-learn~=1.5.1
+tensorboard
+matplotlib~=3.9.1
+streamlit~=1.37.0
+ipykernel
+keras
+nltk~=3.8.1
+setuptools~=70.3.0
+scipy~=1.13.1
+kneed~=0.8.5
+word2vec~=0.11.1
+regex~=2024.5.15
+gensim~=4.3.3
+streamlit
